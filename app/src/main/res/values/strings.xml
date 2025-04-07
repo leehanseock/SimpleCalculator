@@ -2,4 +2,11 @@
     <string name="app_name">SimpleCalculator</string>
     <string name="edit_hint1">숫자입력1</string>
     <string name="edit_hint2">숫자입력2</string>
+    <string name="plus">더하기</string>
+    <string name="minus">빼기</string>
+    <string name="multiply">곱하기</string>
+    <string name="divide">나누기</string>
+    <string name="remainder">나머지</string>
+    <string name="text_result">계산 결과:</string>
+    <string name="text_title">초간단 계산기</string>
 </resources>
